@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+background: rgb(176, 213, 246)}
+
+.titulo{
+    font-size: 1.8rem;
+    font-family: 'Lobster', cursive;
+}
+
+.fa-solid{
+    cursor: pointer; margin-left: 7px;
+}
+
+.text-danger{
+    text-align: start;
+    margin-left: 7px;
+}
